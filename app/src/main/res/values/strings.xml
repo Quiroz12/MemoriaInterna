@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MemoriaInterna</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Abrir">Abrir</string>
+    <string name="guardar">Guardar</string>
+    <string name="mensaje1">Mensaje </string>
+
+</resources>
